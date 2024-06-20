@@ -129,6 +129,21 @@ Cross-Site Scripting (XSS)
        -  ตั้งค่าสิทธิ์การเข้าถึงไฟล์และไดเรกทอรีอย่างเหมาะสม เพื่อลดความเสี่ยงจากการเข้าถึงไฟล์ที่ไม่ได้รับอนุญาต
     
       
-          
+Video การทำ SQL Injection (intro) : https://www.youtube.com/watch?v=DawWB8rVms8
+
+Video การทำ SQL Injection (Advance) : https://www.youtube.com/watch?v=p_g788rjKo4
+
+Video การทำ SQL Injection (mitigation) : https://www.youtube.com/watch?v=huCt-GC530w
+
+Video การทำ cross Site Scripting : https://www.youtube.com/watch?v=3y_Adgv201M
+
+Video การทำ cross Site Scripting (stored) : https://www.youtube.com/watch?v=Vx_x8Pckia4
+
+Video การทำ cross Site Scripting (stored) : https://www.youtube.com/watch?v=2kAtuGFbP7M
+
+Video การทำ Path traversal : https://www.youtube.com/watch?v=mQGz2UUS7nU
+
+
+
 
   
